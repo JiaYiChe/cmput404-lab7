@@ -1,0 +1,17 @@
+Q1:https://github.com/JiaYiChe/cmput404-lab7
+Q2:Flask is a simple, flexible toolbox for building small web applications, 
+Django is a comprehensive toolbox with pre-built tools for building larger and more complex web applications.
+Q3:REST stands for Representational State Transfer. RESTful means that it adheres to a set of design principles for creating web services that are scalable, flexible, and easy to maintain. 
+Q4:
+HTTP 1XX status codes indicate that the server has received the request and is continuing to process it. 
+HTTP 2XX status codes indicate that the client's request was successful and the server has fulfilled it.
+HTTP 3XX status codes indicate that the client needs to take additional action to complete the request, such as following a redirect.
+HTTP 4XX status codes indicate that the client's request was malformed or invalid, and the server could not process it. 
+HTTP 5XX status codes indicate that there was an error on the server while processing the request, preventing it from fulfilling the client's request.
+Q5:
+XSS attack is a type of security issue where attackers can inject harmful code into a website that can be executed by site visitors, allowing the attacker to steal their sensitive information.
+
+One way a site can be vulnerable to XSS attacks is by not properly validating user input, allowing attackers to inject their own code into the site through forms or other input fields, and then execute it when the site displays the user input.
+
+Q6:CORS stands for Cross-Origin Resource Sharing.
+CORS protection is needed in web application development when you want to limit access to resources on your web application to only specific domains or origins, in order to prevent unauthorized access and security vulnerabilities such as cross-site scripting attacks.
